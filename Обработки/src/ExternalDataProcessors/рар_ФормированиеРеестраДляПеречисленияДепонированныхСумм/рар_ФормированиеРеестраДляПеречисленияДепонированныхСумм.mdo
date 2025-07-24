@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="63eb7e3e-f708-4ce2-9785-f64bf8a174f5">
+  <producedTypes>
+    <objectType typeId="e90d15c9-5fca-41eb-833d-79bf7c87506e" valueTypeId="9f5a1c10-2b08-47e7-9172-ea552b2a21fe"/>
+  </producedTypes>
+  <name>рар_ФормированиеРеестраДляПеречисленияДепонированныхСумм</name>
+  <synonym>
+    <key>ru</key>
+    <value>Формирование реестра для перечисления депонированных сумм</value>
+  </synonym>
+  <comment>СТТ_РЗП_12</comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="62afbc35-3204-4aa5-b4f3-7a075478f7f5"/>
+  <defaultForm>ExternalDataProcessor.рар_ФормированиеРеестраДляПеречисленияДепонированныхСумм.Form.Форма</defaultForm>
+  <forms uuid="f5722d68-60ba-4e1a-bd62-2355c64732ce">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
